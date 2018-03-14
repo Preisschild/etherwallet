@@ -12,7 +12,7 @@ NAV_Decentralized_Naming_Service : 'Decentralized Naming Service',
 /* New Generics */
 x_CancelReplaceTx           : 'Transaktion ersetzen oder zurückziehen',
 x_CancelTx                  : 'Transaktion zurückziehen',
-x_PasswordDesc              : 'This password * encrypts * your private key. This does not act as a seed to generate your keys. **You will need this password + your private key to unlock your wallet.**',
+x_PasswordDesc              : 'Dieses Passwort * verschlüsselt * deinen Privatschlüssel. Dieser hat nichts mit der Erstellung deines Privatschlüssels zu tun. **Du wirst das Passwort und deinen Privatschlüssel brauchen, um das Wallet öffnen zu können.**',
 x_ReadMore                  : 'Weiter lesen',
 x_ReplaceTx                 : 'Transaktion ersetzen',
 x_TransHash                 : 'Transaktions Hash',
